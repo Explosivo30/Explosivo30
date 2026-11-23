@@ -119,7 +119,7 @@ I'm a passionate game programmer and developer at **MayBStudios**, currently stu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Explosivo30&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c0caf5" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explosivo30&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=c0caf5" alt="Top Languages" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explosivo30&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=c0caf5&hide=html,css,javascript&exclude_repo=explosivo30.github.io" alt="Top Languages" width="44%" />
 </div>
 
 <br>
