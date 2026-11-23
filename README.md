@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate game programmer and developer at **MayBStudios**, currently studying at **CEV**. I specialize in **gameplay programming, Unity Editor tooling, high-performance systems (DOTS/Jobs/Burst)**, and technical art. When I'm not building real-time multiplayer editor tools or physics experiments, you'll find me developing indie titles or grinding competitive FPS and RTS games.
+I'm a passionate game programmer and ex developer at **MayBStudios**, currently studying at **ENTI | UB**. I specialize in **gameplay programming, Unity Editor tooling, high-performance systems (DOTS/Jobs/Burst)**, and technical art. When I'm not building real-time multiplayer editor tools or physics experiments, you'll find me developing indie titles or grinding competitive FPS and RTS games.
 
 - 🔭 **Currently working on:** Advanced Unity Editor tools, network sync systems, and expanding into **Unreal Engine 5**.
 - 💡 **Core Interests:** High-performance simulations, shader magic, combat systems, and procedural generation.
