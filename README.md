@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Edgar Novas! 👋
-### *Game Developer & Toolmaker · CEV Student · Dev at MayBStudios*
+### *Game Developer & Toolmaker · CEV Student · ENTI | UB Student· ExDev at MayBStudios*
 
 <a href="https://explosivo30.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Game+Developer+%26+Technical+Designer;Unity+(Jobs+%26+Burst)+%7C+C%23+%7C+C%2B%2B;Building+Editor+Tools%2C+Shaders+%26+Simulations;Crafting+Indie+Games+on+itch.io" alt="Typing SVG" />
